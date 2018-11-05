@@ -208,7 +208,7 @@ Any member shall have the right to request that any and all information of a per
 The head office of the Society shall be situated at a place in the Province of Nova Scotia as determined by the Board.
 
 #### 4.5	Financial Year
-The financial year of the Association shall be the period from 1 April to 31 March.
+The financial year of the Association shall be the period from 1 May to 30 April.
 
 #### 4.6	Budgets
 The Executive Committee shall prepare the operating budget to be reviewed and approved by the Board prior to the start of the fiscal year. The budget may be amended by the Executive Committee at any time during the fiscal year with the prior approval of the Board.
