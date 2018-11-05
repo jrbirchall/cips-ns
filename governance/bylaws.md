@@ -195,7 +195,7 @@ All other resolutions or motions at an annual or special meeting of members of t
 Votes may be cast by,
 1. indicating Yea/Nay, either in person, by proxy, telephonically or electronically
 2. a secret vote that is,
-  a. marked on a secret ballot cast personally, electronically or by a proxy
+   1. marked on a secret ballot cast personally, electronically or by a proxy
 
 ##### 3.4.1	Absentee Voting
 Voting by mail or by telephonic or electronic means may only be used if,
