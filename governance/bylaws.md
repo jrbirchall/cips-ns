@@ -33,7 +33,10 @@ Within these Bylaws, the following words shall have the following meanings respe
 “Officer” means an Officer of the Association; including the President, Vice President, Past President, Secretary and  Treasurer, or such other officers as the Board may approve from time to time.
 
 ##### 1.1.9	Certified Member 
-“Certified Member” means a member of the Association in the Regular or Fellow membership class with the Certified Privilege. As defined in sections 2.4 and 2.5.2
+“Certified Member” means a member of the Association in the Regular or Fellow membership class with the Certified Privilege. As defined in sections 2.4 and 2.5.2.
+
+##### 1.1.10	Proxy
+“proxy” means an authorization by means of which a member has appointed a proxyholder to attend and act on the member’s behalf at a meeting of the members.
 
 #### 1.2	Name
 The Association shall be known as the Canadian Information Processing Society of Nova Scotia / L’association Canadienne de l informatique de la Nouvelle Ecosse.
@@ -186,11 +189,46 @@ The time and place of every annual or special meeting shall be given to each mem
 A quorum for the transaction of business at any annual or special meeting of members of the Association shall be fifteen (15) Regular or Certified Members in good standing including at least one half of the members of the Board.  If a quorum is not present, the meeting shall be automatically adjourned and the board must convene another meeting within forty five (45) days.
 
 #### 3.4	Voting
-
 All resolutions or motions at an annual or special meeting of members of the Association regarding dissolution, amendments to the Bylaws, or changes to the Code of Ethics shall be approved by a two-thirds majority of the votes cast by Regular or Fellow Members.
 All resolutions or motions at an annual or special meeting of members of the Association regarding dissolution, amendments to the Common Body of Knowledge and Certification/Re-certification Standards shall be approved by a two-thirds majority of the votes cast by Certified Members.
 All other resolutions or motions at an annual or special meeting of members of the Association shall be passed or rejected by a simple majority of the votes cast by Regular or Fellow Members.
-At the discretion of the Board, votes may be cast in person at the meeting, or received by the Secretary by mail or electronic transmission twenty-four (24) hours in advance of the meeting unless otherwise required by the Bylaws of the Association. 
+Votes may be cast by,
+a. indicating Yea/Nay, either in person, by proxy, telephonically or electronically
+b. a secret vote that is,
+  i. marked on a secret ballot cast personally, electronically or by a proxy
+
+##### 3.4.1	Absentee Voting
+Voting by mail or by telephonic or electronic means may only be used if,
+a. the votes may be verified as having been made by members entitled to vote; and
+b. the corporation is not able to identify how each member voted.
+
+#### 3.5	Proxies
+Every member entitled to vote at a meeting of the members may by means of a proxy appoint a proxyholder or one or more alternate proxyholders as the member’s nominee to attend and act at the meeting in the manner, to the extent and with the authority conferred by the proxy.
+
+##### 3.5.1	Who may be a proxyholder
+Only certified members may be appointed as proxies.
+
+##### 3.5.2	Form of Proxy
+A proxy form must be deposited to the meeting chair, by mail, physically or by electronic means, no later than 24 hours before the meeting.
+The proxy form,
+a. must be signed by the member (physically, digitally or cryptographically) and;
+b. must indicate what meeting the proxy applies to and;
+c. must indicate what voting actions are authorised.
+
+##### 3.5.3	Validity
+A proxy is valid only at the meeting for which it is given or, if that meeting is adjourned, at the meeting that constitutes the adjourned meeting.
+
+##### 3.5.4	Revocation
+A member may revoke a proxy
+a. by depositing with the meeting chair before the meeting, or, if that meeting is adjourned, before the beginning of the continued meeting, a revocation that is signed by the member
+
+##### 3.5.5	Proxy Voting by Yea/Nay
+If the chair of a meeting of the members declares to the meeting that, to the best of their belief, if a ballot is conducted, the total number of votes of members represented at the meeting by proxy required to be voted against a matter or group of matters to be decided at the meeting is less than 5 per cent of all the votes that might be cast at the meeting on such ballot, and if a member, proxyholder or alternate proxyholder does not demand a ballot,
+a. the chair may conduct the vote in respect of that matter or group of matters by voicing YEA/NAY and
+b. a proxyholder or alternate proxyholder may vote in respect of that matter or group of matters by voicing YEA/NAY
+
+##### 3.5.6	Rights of Proxyholder
+A proxyholder or an alternate proxyholder has the same rights as the member who appointed them to speak at a meeting of the members in respect of any matter, to vote by way of ballot at the meeting and, except where a proxyholder or an alternate proxyholder has conflicting instructions from more than one member, to vote at the meeting in respect of any matter by way of Yea/Nay.
 
 ### 4 Administration of the Organization
 #### 4.1	Books and Records
