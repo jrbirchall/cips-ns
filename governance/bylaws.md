@@ -180,7 +180,7 @@ A special meeting of members may be convened by the Board at any time during the
 Without limiting the generality of the foregoing, resolutions and special resolutions which would normally be considered at a special meeting may be voted upon by members by mail or electronic transmission, and, provided notice, as described in Section 3.2, has been given, the date by which votes are to be received shall be deemed to be the date of the special meeting as if one had been held.
 
 #### 3.2	Notice
-The time and place of every annual or special meeting shall be given to each member thirty (30) days before the date fixed for the holding of such meeting by ordinary mail to the address of record last filed with the Association.
+The time and place of every annual or special meeting shall be given to each member thirty (30) days before the date fixed for the holding of such meeting.
 
 #### 3.3	Quorum
 A quorum for the transaction of business at any annual or special meeting of members of the Association shall be fifteen (15) Regular or Certified Members in good standing including at least one half of the members of the Board.  If a quorum is not present, the meeting shall be automatically adjourned and the board must convene another meeting within forty five (45) days.
@@ -281,7 +281,7 @@ The Treasurer is responsible to the Board and shall be responsible for the finan
 
 #### 5.3	Nomination and Election
 A sufficient number of Directors required to fill all vacancies of the Board of Directors including those directors whose terms have expired and the Vice-President shall be elected at each annual meeting of the Association by a majority vote of all those eligible to vote. 
-At least sixty (60) days prior to the annual meeting, the President shall call on the membership, in writing, for nominations to be made, in writing, for Vice President and the Directors to be elected at the annual meeting. The nomination period shall be held open for at least twenty-one (21) days. The names and qualifications of those nominated shall be distributed to the membership with the notice of the annual meeting.
+At least thirty (30) days prior to the annual meeting, the President shall call on the membership, in writing, for nominations to be made, in writing, for Vice President and the Directors to be elected at the annual meeting. The nomination period shall be held open for at least ten (10) days. The names and qualifications of those nominated shall be distributed to the membership prior to the start of the annual meeting.
 The Secretary and Treasurer shall be chosen by the Board from among the members of the Board for the coming year. The positions of President and Past President will be filled in succession by those members elected to the position of Vice President.
 
 #### 5.4	Term
@@ -317,8 +317,7 @@ The Membership Committee shall send a written notice of any decision made by it 
 Any director may be removed from office for just and sufficient cause by a three-fourths majority vote of the Board of Directors.  Before any action to remove a director is taken, the director shall be notified in writing at least 30 days prior to the vote.  This notification should include the proposed action and the reasons therefore.  The director shall be given an opportunity to make submissions in writing, in person, or through a representative.
 
 ### 6 Amendment of the Bylaws
-Amendments to these Bylaws shall be proposed by the Board in writing and sent to the membership one (1) month prior to the annual meeting or such special meeting as may be called for that purpose by the Board. Each amendment shall be discussed and voted on separately pursuant to Section 3.1.  Amendments of these Bylaws shall not be made at any other time. No changes to the proposed amendments shall be allowed at the meeting except by unanimous approval of all eligible voters present at the meeting. Amendments shall be approved by a two-thirds majority vote of those members participating in the meeting pursuant to Section 3.1.
+Amendments to these Bylaws shall be proposed by the Board in writing and sent to the membership prior to the annual meeting or such special meeting as may be called for that purpose by the Board. Each amendment shall be discussed and voted on separately pursuant to Section 3.1.  Amendments of these Bylaws shall not be made at any other time. No changes to the proposed amendments shall be allowed at the meeting except by unanimous approval of all eligible voters present at the meeting. Amendments shall be approved by a two-thirds majority vote of those members participating in the meeting pursuant to Section 3.1
 
 ### 7 Gender and Number
 Within these Bylaws, wherever a gender-specific term appears both are equally intended.  Also, works expressed in the singular include the plural and vice-versa.
-
