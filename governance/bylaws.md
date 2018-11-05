@@ -183,10 +183,12 @@ Without limiting the generality of the foregoing, resolutions and special resolu
 The time and place of every annual or special meeting shall be given to each member thirty (30) days before the date fixed for the holding of such meeting by ordinary mail to the address of record last filed with the Association.
 
 #### 3.3	Quorum
-A quorum for the transaction of business at any annual or special meeting of members of the Association shall be fifteen (15) Regular or Certified Members in good standing including at least one half of the members of the Board.  If a quorum is not present, the meeting shall be automatically adjourned and the board must convene another meeting within forty five (45) days.
+A quorum for the transaction of business at any annual or special meeting of members of the Association shall be the lesser of,
+a. fifteen (15) Regular or Certified Members in good standing including at least one half of the members of the Board.
+b. at least two thirds of the members of the Board plus 10% of the Voting Members exclusive of members of the Board
+If a quorum is not present, the meeting shall be automatically adjourned and the board must convene another meeting within forty-five (45) days.
 
 #### 3.4	Voting
-
 All resolutions or motions at an annual or special meeting of members of the Association regarding dissolution, amendments to the Bylaws, or changes to the Code of Ethics shall be approved by a two-thirds majority of the votes cast by Regular or Fellow Members.
 All resolutions or motions at an annual or special meeting of members of the Association regarding dissolution, amendments to the Common Body of Knowledge and Certification/Re-certification Standards shall be approved by a two-thirds majority of the votes cast by Certified Members.
 All other resolutions or motions at an annual or special meeting of members of the Association shall be passed or rejected by a simple majority of the votes cast by Regular or Fellow Members.
