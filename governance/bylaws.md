@@ -127,12 +127,12 @@ g)	vote on non-certification related matters to be decided by the membership,
 h)	be counted in establishing Quorum at an Annual General Meeting or Special General Meeting (for non-certification related matters),
 i)	chair a Board-appointed non-certification related committee,
 j)	serve on the Canadian Council of IT Professionals (CCITP),
-k)	subject to the provisions of Section 5.1, be elected or appointed as a  member of the Board (excluding the positions of President, Vice President, and Past President),
+k)	subject to the provisions of Section 5.1, be elected or appointed as a  member of the Board,
 
 In addition, unless otherwise stated elsewhere in these Bylaws, Certified members (as defined in Section 1.1.9) of the Association shall have the exclusive right to:
 l)	subject to the provisions of Section 2.6.4, use the CIPS Designation appropriate for their Certification within the Province of Nova Scotia,
 m)	vote on all certification-related matters to be decided by the membership,
-n)	subject to the provisions of Sections 5.1 and 5.2, be elected or appointed as a  member of the Board and executive,  (including the positions of President, Vice President, and Past President),
+n)	subject to the provisions of Sections 5.1 and 5.2, be elected or appointed as a  member of the Board and executive,
 o)	serve on certification-related committees appointed by the Board,
 p)	chair a Board-appointed certification-related committee
 
@@ -257,7 +257,6 @@ In the event that the Association is dissolved, the remaining assets of the Asso
 ### 5 Organization of the Association
 #### 5.1	Board of Directors
 The Association Board of Directors shall comprise a minimum of 5 members including the President, Vice President, Past President, Secretary, Treasurer and up to eight (8) additional Directors. 
-The President, Vice President and Past President shall be Certified Members in good standing.  All other members of the Board shall be Regular or Certified Members in good standing.  
 Certified members shall comprise more than 50 percent of the Board of Directors.
 The Board shall be the governing body of the Association responsible for setting direction and policy with full authority over all affairs of the Association. Unless otherwise provided for in these Bylaws, all actions and decisions of the Board shall be final.  The Past President shall act as an advisor to the President and the Board and shall undertake such special duties or assignments as may be requested by the Board from time to time.
 A quorum for the transaction of business at any board meeting shall be one half of the Board Members.  If a quorum is not present, the meeting shall be automatically adjourned and the board must convene another meeting within forty five (45) days.
